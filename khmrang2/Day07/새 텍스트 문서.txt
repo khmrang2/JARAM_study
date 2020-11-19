@@ -1,0 +1,19 @@
+pull request 과정
+
+1. Fork
+	: 깃헙에서 포크 버튼을 눌러 자신의 레포지토리로 포크한다
+2. clone, remote설정
+	: github에서 다운받아서 로컬저장소를 만들고
+	  원격저장소를 url로 받아서 만들어준다. ( 적용해준다? )
+3. branch 생성
+	: 간단하게 독립적으로 개발하기 위해 생성한다.
+4. 수정 작업 후 add, commit, push
+	: 늘 하던 add commit push.
+5. Pull Request 생성
+	: push하면 포크한 자신의 리포지토리에 pull - request 버튼이 나오는데
+	  이를 누르면 원본 저장소로 pull request가 간다.
+	  
+6. 코드 보고, Merge Pull Reqest
+	: 원본 저장소 소유자가 pull request 한거 보고 받을지 말지( merge) 결정
+7. Merge 이후 branch 삭제 및 동기화
+	: 원본 저장소의 코드를 동기화~!@!~@~!@
