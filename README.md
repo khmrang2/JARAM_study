@@ -11,7 +11,7 @@ md는 무슨 파일 확장자명일까
 |서재현|Co-Leader|
 |정태준|Member|
 |김성민|Member|
-|김현민|Member| <-- it's me!
+<-- it's me!|김현민|Member| 
 |김나현|Member|
 
 
