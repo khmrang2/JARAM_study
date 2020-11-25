@@ -1,4 +1,5 @@
-<h1>Shell_Study</h1>
+#Shell_Study
+##Erica_소프트웨어학부_20학번_
 
 이것은 readme.md 
 md는 무슨 파일 확장자명일까
