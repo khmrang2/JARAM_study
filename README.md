@@ -23,8 +23,3 @@ ReadMe.md 파일은 무엇일까?
 [김현민의 github주소](https://github.com/khmrang2?tab=repositories)   
 [자람 스터디 github주소](https://github.com/QKRM/JARAM_study)
 
-
-=======
-리드미.엠디  
-[깃허브 링크](https://github.com/QKRM)
-
