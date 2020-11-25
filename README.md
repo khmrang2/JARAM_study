@@ -17,4 +17,4 @@ md는 무슨 파일 확장자명일까
 |김나현|Member|
 
 
-<img> https://gif5jvqbd.fmkorea.com/files/attach/new/20190708/486616/1956694222/1972227895/82ac9b16f1e2dc56875cd56263abaf64.gif </img>
+![jumping_mushroom!]( https://gif5jvqbd.fmkorea.com/files/attach/new/20190708/486616/1956694222/1972227895/82ac9b16f1e2dc56875cd56263abaf64.gif)
