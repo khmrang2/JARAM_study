@@ -1,4 +1,4 @@
-<h1>Shell_Study<h1>
+<h1>Shell_Study</h1>
 
 이것은 readme.md 
 md는 무슨 파일 확장자명일까
