@@ -19,4 +19,4 @@ Hanyang Univ. ERICA, Division of Computer Science, 20
   
 [![solved.ac 티어](http://mazassumnida.wtf/api/generate_badge?boj=cariekim0619)](https://solved.ac/cariekim0619)  
   
-별 볼 거 없는데 봐주셔서 감사합니다 (_ _) 그럼 20000 안녕 Good Bye zàijiàn さようなら Adiós  
+별 볼 거 없는데 봐주셔서 감사합니다 (_ _) 그럼 20000 [안녕](https://ko.dict.naver.com/#/entry/koko/ee1071a8a0e64af5be608248d95aa0ec) [Goodbye](https://en.dict.naver.com/#/entry/enko/da83e177a71b4957b294fb0daf79569b) [zàijiàn](https://zh.dict.naver.com/#/entry/zhko/fbb1cd12565d479e980f8016b0fc4ba7) [さようなら](https://ja.dict.naver.com/#/entry/jako/0fd4c8d3347840748e8d5c9c8aeafd43) [Adiós](https://dict.naver.com/eskodict/#/entry/esko/4652ff5187274b868e2a5585ff2764f5)  
