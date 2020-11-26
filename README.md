@@ -23,3 +23,5 @@ git업로드 방법
 4. git add .
 5. git commit -m "(코멘트)"
 6. git push --set-upstream origin (브랜치)
+
+![메미리](https://item.kakaocdn.net/do/17977f664743d7ffb33e77e1e4eea85bf43ad912ad8dd55b04db6a64cddaf76d "링크 설명(title)을 작성하세요.")
