@@ -19,4 +19,4 @@ Hanyang Univ. ERICA, Division of Computer Science, 20
   
 [![solved.ac 티어](http://mazassumnida.wtf/api/generate_badge?boj=cariekim0619)](https://solved.ac/cariekim0619)  
   
-별 볼 거 없는데 봐주셔서 감사합니다 (__) 그럼 20000 안녕 Good Bye zàijiàn さようなら Adiós  
+별 볼 거 없는데 봐주셔서 감사합니다 (_ _) 그럼 20000 안녕 Good Bye zàijiàn さようなら Adiós  
