@@ -13,4 +13,13 @@
 | 김나현 | Member |
 | 김현민 | Member |
 
+----
 
+git업로드 방법 
+
+1. git clone (주소)
+2. 클론한 파일에 cd 하기
+3. 파일 수정
+4. git add .
+5. git commit -m "(코멘트)"
+6. git push --set-upstream origin (브랜치)
