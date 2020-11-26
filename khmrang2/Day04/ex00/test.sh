@@ -1,1 +1,0 @@
-echo $NBR1
