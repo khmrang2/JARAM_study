@@ -1,6 +1,7 @@
 # cariekim0619의 READ.me 입니다  
 [cariekim0619](https://github.com/cariekim0619)  
   
+Hanyang Univ. ERICA Division of Computer Science, 20  
 > 최근에 대충 살자라는 마인드를 가지게 된 소프트웨어학부 1학년 조무래기 입니다  
 > ~~빨리 군대나 갔다 와야지~~  
 > 자기 입맛에 맞는 코딩은 잘하고 열심히 하려고 하나 입맛에 안 맞으면 잘 못할뿐더러 안 하려고 합니다  
