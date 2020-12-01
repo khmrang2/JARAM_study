@@ -6,6 +6,8 @@
 > 아직도 자람인이 아니시라구요:question::exclamation: 친절하신 훈남훈녀 실력파 선배 동기분들이 기다리고 계십니다!!
 >> *^^ 누구든 환영^^*:cherry_blossom:
 
+----
+
 1. 쉘스크립트 스터디원
 
 |이름|역할|
@@ -18,4 +20,5 @@
 |김현민|Member|
 
 2. 김나현의 레포지토리
-[클릭해주세요]https://github.com/nahyun27?tab=repositories
+
+[클릭해주세요](https://github.com/nahyun27?tab=repositories)
